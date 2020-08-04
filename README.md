@@ -5,4 +5,4 @@
 # an image is already given in the respository under name colorpic_example.jpg file 
 # when entered 2 a video will be commenced to capture the required frame. press 's' to start the countdown(3 seconds) and
 # and after that it will automatically save the captured frame under the name'camera.jpg' file 
-#press 'esc' button to start detecting color in the captured frame and again press 'esc' when the user has completed its task
+# press 'esc' button to start detecting color in the captured frame and again press 'esc' when the user has completed its task
