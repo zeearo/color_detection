@@ -8,7 +8,7 @@ import numpy as np
 import cv2
 import pandas as pd
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic('matplotlib', 'inline')  ##%matplotlib.inline
 import time
 
 
@@ -26,7 +26,7 @@ def pick_image():
 
 
 index=['COLOR','COLOR_NAME','HEXA','R','G','B']
-csv=pd.read_csv('color_combination.csv',names=index,header=None)
+csv=pd.read_csv('colors.csv',names=index,header=None)
 
 
 # In[4]:
