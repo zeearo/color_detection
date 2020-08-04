@@ -26,7 +26,7 @@ def pick_image():
 
 
 index=['COLOR','COLOR_NAME','HEXA','R','G','B']
-csv=pd.read_csv('colors.csv',names=index,header=None)
+csv=pd.read_csv('color_combination.csv',names=index,header=None)
 
 
 # In[4]:
